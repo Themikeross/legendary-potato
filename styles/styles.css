@@ -244,8 +244,3 @@ main .section {
     margin: auto;
   }
 }
-
-/* section metadata */
-main .section.highlight {
-  background-color: var(--highlight-background-color);
-}
